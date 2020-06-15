@@ -1,0 +1,34 @@
+Student grade report log: 
+===============================
+
+Student name: Sebastian Stephenson
+Student ID: 12345
+English: 98.0
+Math: 90.0
+Science: 93.0
+Physical Education: 78.0
+History: 91.0
+The average is: 90.0(A-)
+-------------------------------
+
+Student name: John Doe
+Student ID: 54321
+English: 90.0
+Math: 87.0
+Science: 87.0
+Physical Education: 78.0
+History: 89.0
+The average is: 86.2(F)
+-------------------------------
+
+Student name: Michael Jackson
+Student ID: 67432
+English: 89.0
+Math: 90.0
+Science: 74.0
+Physical Education: 97.0
+History: 92.0
+The average is: 88.4(B+)
+-------------------------------
+
+the number of students processed: 3
